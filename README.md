@@ -43,7 +43,7 @@ If it produces data — I want to model it.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=OmkarArundekar1&theme=tokyonight&no-frame=true&row=1&column=7"/>
 
 </p>
 
@@ -66,7 +66,7 @@ If it produces data — I want to model it.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&perline=4"/>
 
 </p>
 
@@ -76,11 +76,15 @@ If it produces data — I want to model it.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=docker,linux,git"/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git&perline=3"/>
 
 </p>
 
+<p align="center">
+
 LangChain • Vector DBs • Prompt Engineering • Embeddings
+
+</p>
 
 ---
 
@@ -93,20 +97,16 @@ LangChain • Vector DBs • Prompt Engineering • Embeddings
 <img src="https://img.shields.io/badge/ELK-Stack-orange?style=for-the-badge"/>
 
 </p>
+
 ---
 ## 🧩 LeetCode Progress
 
 <p align="center">
 
-<img src="https://leetcard.jacoblin.cool/OmkarArundekar1?ext=contest&theme=dark&font=Karma"/>
+<img src="https://leetcard.jacoblin.cool/OmkarArundekar1?theme=dark&ext=contest"/>
 
 </p>
 
-<p align="center">
-
-<img src="https://leetcode-stats.vercel.app/api?username=OmkarArundekar1&theme=Dark"/>
-
-</p>
 ---
 
 ## 📊 GitHub Stats
