@@ -67,11 +67,11 @@ Linux • Docker • Git • REST APIs
 ## 🧩 LeetCode Progress
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/Omkar Arundekar?theme=dark&font=Karma&ext=heatmap"/>
+<img src="https://leetcard.jacoblin.cool/oipjk2Rrzp?theme=dark&font=Karma&ext=heatmap"/>
 </p>
 
 <p align="center">
-<img src="https://leetcode-stats.vercel.app/api?username=Omkar Arundekar&theme=Dark"/>
+<img src="https://leetcode-stats.vercel.app/api?username=oipjk2Rrzp&theme=Dark"/>
 </p>
 
 ---
