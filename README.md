@@ -7,6 +7,12 @@
 </p>
 
 ---
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=OmkarArundekar1&theme=tokyonight"/>
+
+</p>
+---
 
 ## 🚀 About Me
 
@@ -33,6 +39,16 @@ If it produces data — I want to model it.
 
 ---
 
+## 🏆 Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
 ## 🧠 Capstone Project
 
 ### Intelligent Cyber Threat Detection & Response using AI/ML + Multi-Agent RAG
@@ -44,36 +60,53 @@ If it produces data — I want to model it.
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
-### AI / ML
+### 🧠 AI / Machine Learning
 
-Python • PyTorch • TensorFlow • Scikit Learn • Pandas • NumPy
+<p align="center">
 
-### LLM Engineering
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn"/>
 
-LangChain • Vector DBs • Embeddings • Prompt Engineering
-
-### Cybersecurity
-
-Wazuh • Graylog • ELK Stack • Threat Hunting
-
-### Tools
-
-Linux • Docker • Git • REST APIs
+</p>
 
 ---
 
+### 🤖 LLM Engineering
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=docker,linux,git"/>
+
+</p>
+
+LangChain • Vector DBs • Prompt Engineering • Embeddings
+
+---
+
+### 🛡️ Cybersecurity
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Wazuh-SIEM-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graylog-Log%20Analysis-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ELK-Stack-orange?style=for-the-badge"/>
+
+</p>
+---
 ## 🧩 LeetCode Progress
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/oipjk2Rrzp?theme=dark&font=Karma&ext=heatmap"/>
+
+<img src="https://leetcard.jacoblin.cool/OmkarArundekar1?ext=contest&theme=dark&font=Karma"/>
+
 </p>
 
 <p align="center">
-<img src="https://leetcode-stats.vercel.app/api?username=oipjk2Rrzp&theme=Dark"/>
-</p>
 
+<img src="https://leetcode-stats.vercel.app/api?username=OmkarArundekar1&theme=Dark"/>
+
+</p>
 ---
 
 ## 📊 GitHub Stats
