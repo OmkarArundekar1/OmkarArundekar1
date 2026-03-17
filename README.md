@@ -134,7 +134,7 @@ If it produces data — I want to model it.
 
 ---
 
-## 🧩 Problem Solving (LeetCode)
+## 🧩 Problem Solving : LeetCode
 
 <p align="center">
 
